@@ -1,1 +1,1 @@
-Basic Codes
+topic wise code/syntax
